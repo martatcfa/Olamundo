@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
         val nome: String = "Marta"
+        val teste: String = "EU"
     }
 }
